@@ -15,6 +15,10 @@ build:
     env:
       CARGO_PROFILE_RELEASE_STRIP: symbols
       CARGO_PROFILE_RELEASE_LTO: fat
+      # The build script uses vergen to derive the version from `git describe`,
+      # but the source tarball has no `.git` directory. Provide the value
+      # explicitly so the `env!("VERGEN_GIT_DESCRIBE")` lookup succeeds.
+      VERGEN_GIT_DESCRIBE: v${{ version }}
     content:
       - if: unix
         then:
