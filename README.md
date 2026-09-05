@@ -69,7 +69,7 @@ Current release info
 
 | Name | Downloads | Version | Platforms |
 | --- | --- | --- | --- |
-| [![Conda Recipe](https://img.shields.io/badge/recipe-worktrunk-green.svg)](https://anaconda.org/conda-forge/worktrunk) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/worktrunk.svg)](https://anaconda.org/conda-forge/worktrunk) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/worktrunk.svg)](https://anaconda.org/conda-forge/worktrunk) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/worktrunk.svg)](https://anaconda.org/conda-forge/worktrunk) |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-worktrunk-green.svg)](https://anaconda.org/conda-forge/worktrunk) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/worktrunk.svg)](https://anaconda.org/conda-forge/worktrunk) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/worktrunk.svg)](https://anaconda.org/conda-forge/worktrunk) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/worktrunk.svg)](https://anaconda.org/conda-forge/worktrunk) | [![Worktrunk on StartupScores](https://startupscores.com/badge/worktrunk.svg?style=shield&v=combo&theme=dark)](https://startupscores.com/open-source/worktrunk)
 
 Installing worktrunk
 ====================
